@@ -22,7 +22,7 @@ O sistema foi implementado utilizando **SQLite** e executado no ambiente **Googl
 * 🐍 **Python**
 * 💾 **SQLite**
 * ☁️ **Google Colab**
-* <0xF0><0x9F><0x93><0x84> **GitHub**
+* 💻 **GitHub**
 
 ---
 
