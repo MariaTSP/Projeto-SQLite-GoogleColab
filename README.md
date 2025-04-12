@@ -62,11 +62,11 @@ O sistema foi implementado utilizando **SQLite** e executado no ambiente **Googl
 
 1.  Copie a URL do repositório:
     ```
-    [https://github.com/MariaTSP/Projeto-SQLite-GoogleColab.git](https://github.com/MariaTSP/Projeto-SQLite-GoogleColab.git)
+    https://github.com/MariaTSP/Projeto-SQLite-GoogleColab.git
     ```
 2.  Abra o **Google Colab** no seu navegador:
     ```
-    [https://colab.research.google.com](https://colab.research.google.com)
+    https://colab.research.google.com
     ```
 3.  No Colab, clique em **"Arquivo"** (File) no menu superior.
 4.  Selecione a opção **"Abrir notebook..."** (Open notebook...).
